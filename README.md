@@ -52,18 +52,4 @@
 技術的なディスカッションや、コラボレーションの機会を探しています。お気軽に連絡ください！
 
 * 📧 **Email:** `[newosoal21@gmail.com]`
-* 🔗 **LinkedIn (任意):** `[あなたのLinkedIn URL]`
 
-<div align="center">
-  
-  ---
-  
-  ### 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=[newosoal21-pixel]&show_icons=true&theme=vue&hide_border=true&locale=ja" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[newosoal21-pixel]&layout=compact&theme=vue&hide_border=true" alt="Top Languages">
-  
-</div>
-
-<p align="right">
-  <img src="https://profile-counter.glitch.me/[あなたのGitHubユーザー名]/count.svg" alt="Visitors Count">
-</p>
