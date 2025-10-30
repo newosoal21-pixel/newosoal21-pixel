@@ -38,11 +38,14 @@
 
 ## 💡 プロジェクトと興味
 
-私は現在、[具体的なプロジェクトの内容や目的] に取り組んでいます。
+私は現在、**生成AI**（特に**Suno AI**のようなメディア生成系）や、<br>
+**Python**等を用いたシステム/デバイスの**制御・自動化**について学習しています。
 
-* **最近の関心事:** [例: 関数型プログラミング、マイクロサービスアーキテクチャ、AI/MLの応用]
-* **強み:** [例: クリーンコードの追求、チームでのコミュニケーション、デバッグ能力]
-* **今後の目標:** [例: 新しいフレームワークの習得、OSSへの貢献]
+* **直近の取り組み:主にJavaプログラムでの** **施設運営の効率化**、**総務業務効率化アプリ**開発に注力しました。
+* **最近の関心事:** **Java＆python**での、**リアルタイム制御、ステータス検知システム**の構築。
+* **強み:** 要件定義からデプロイまでを迅速に行う**フリーランス**としてのフットワーク、<br>
+            異なる技術スタックを組み合わせての問題解決の提案。
+* **今後の目標:** 生成AIを利用した**音楽・クリエイティブフォローアプリ**の開発。
 
 ## 🤝 一緒に働きませんか？
 
@@ -50,15 +53,14 @@
 
 * 📧 **Email:** `[newosoal21@gmail.com]`
 * 🔗 **LinkedIn (任意):** `[あなたのLinkedIn URL]`
-* 📝 **Blog (任意):** `[あなたのブログ URL]`
 
 <div align="center">
   
   ---
   
   ### 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=[あなたのGitHubユーザー名]&show_icons=true&theme=vue&hide_border=true&locale=ja" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[あなたのGitHubユーザー名]&layout=compact&theme=vue&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=[newosoal21-pixel]&show_icons=true&theme=vue&hide_border=true&locale=ja" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[newosoal21-pixel]&layout=compact&theme=vue&hide_border=true" alt="Top Languages">
   
 </div>
 
