@@ -6,7 +6,7 @@
     <img src="[あなたのプロフィール画像URL]" width="150" alt="Profile Image" style="border-radius: 50%;">
   </p>
 
-  ### 🏢 [所属または現在のロール] | 🌟 [興味のある技術分野]
+  ### 🏢 [フリーランスエンジニア] | 🌟 [興味のある技術分野：生成AI・Pythonコントロール]
   
   ---
 </div>
